@@ -1,6 +1,6 @@
 //Receiver code
 #include <RH_ASK.h>
-RH_ASK driver(2400, 11, 12, 10, true);
+RH_ASK driver(2400, 3, 12, 10, true);
 
 void setup()
 {
